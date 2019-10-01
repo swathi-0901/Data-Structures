@@ -7,7 +7,7 @@
 
 Counting sort is a stable sorting technique, which is used to sort objects according to the keys that are small numbers. It counts the number of keys whose key values are same. This sorting technique is effective when the difference between different keys are not so big, otherwise, it can increase the space complexity.
 
-Datastructure used here is an array.
+Data structure used here is an array.
 
 Steps for Count Sort algorithm:
 
@@ -53,7 +53,7 @@ Binary search is a fast search algorithm with run-time complexity of Ο(log n). 
 
 Datastructure used here is an array.
 
-Steps for Count Sort algorithm:
+Steps for Binary Search algorithm:
 
 1. Find the middle element in the sorted list.
 2. Compare the search element with the middle element in the sorted list.
