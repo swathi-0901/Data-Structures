@@ -1,4 +1,4 @@
-# Longest Univaluve Path
+# Longest Univalue Path
 
 The below is the link for the video
 
